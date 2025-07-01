@@ -1,0 +1,49 @@
+.suggestion-box {
+  position: absolute;
+  z-index: 1000;
+  background-color: #1e1e1e;
+  border: 1px solid #444;
+  border-radius: 5px;
+  color: white;
+  max-height: 200px;
+  overflow-y: auto;
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #333;
+}
+
+light-mode .suggestion-box li {
+  background-color: white;
+  color: black;
+}
+.light-mode .suggestion-box li:hover {
+  background-color: #f0f0f0;
+  color: black;
+}
+
+.search-bar-container {
+  position: relative;
+  width: 100%;
+  max-width: 1000px; 
+}
+
+.custom-search-input {
+  min-width: 300px;
+}

@@ -1,0 +1,29 @@
+body {
+  background: linear-gradient(to right, #ffe3ec, #d7e9ff);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.btn-back {
+  background: linear-gradient(to right, #ff4b2b, #ff416c);
+  border: none;
+  color: white;
+  font-weight: 500;
+}
+
+.btn-back:hover {
+  background: linear-gradient(to right, #ff416c, #ff4b2b);
+}
+
+.container {
+  max-width: 700px;
+}
+
+.card {
+  background: #fff;
+  border-radius: 12px;
+}
+
+.card.dark {
+  background: #222;
+  color: #eee;
+}
