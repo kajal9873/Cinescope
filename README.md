@@ -15,7 +15,6 @@ CineScope offers a fast and responsive experience to discover new and trending m
 - 🔍 Search movies in real time
 - 🧠 Get animated suggestions while typing
 - ❤️ Favorite movies using the heart icon (with localStorage support)
-- ♾️ Use infinite scrolling to load more movies
 - 🎥 View detailed movie information in a modal popup
 - 🎭 Filter movies by genre
 - 🌙 Toggle between Dark and Light themes
@@ -30,4 +29,3 @@ CineScope offers a fast and responsive experience to discover new and trending m
 - **Bootstrap 5**
 - **TMDB API**
 - **LocalStorage**
-- **Intersection Observer API** (for infinite scroll)
