@@ -4,7 +4,7 @@ CineScope is a visually appealing movie search web app built with **React.js**, 
 
 ## 🔗 Live Demo
 
-🌐 [Click here to try CineScope](https://kajal9873.github.io/cinescope)
+🌐 [Click here to try CineScope](https://kajal9873.github.io/Cinescope/)
 
 ---
 
