@@ -23,8 +23,6 @@ const About = () => {
           <li>🎭 Filter movies by genre (Action, Comedy, Horror, etc.).</li>
           <li>🌚 Dark/Light mode toggle.</li>
           <li>📄 View detailed movie modal with overview, genres, ratings.</li>
-          <li>🔙 Go back to Trending from search results</li>
-          <li>📱 Fully responsive design for all devices</li>
         </ul>
 
         <h4 className="text-info mt-4">👩‍💻 Developer Info</h4>
