@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Cinescope/static/css/main.3cef15fb.css",
-    "main.js": "/Cinescope/static/js/main.9a944639.js",
+    "main.js": "/Cinescope/static/js/main.49c70e31.js",
     "static/js/453.96dc7d45.chunk.js": "/Cinescope/static/js/453.96dc7d45.chunk.js",
     "index.html": "/Cinescope/index.html",
     "main.3cef15fb.css.map": "/Cinescope/static/css/main.3cef15fb.css.map",
-    "main.9a944639.js.map": "/Cinescope/static/js/main.9a944639.js.map",
+    "main.49c70e31.js.map": "/Cinescope/static/js/main.49c70e31.js.map",
     "453.96dc7d45.chunk.js.map": "/Cinescope/static/js/453.96dc7d45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3cef15fb.css",
-    "static/js/main.9a944639.js"
+    "static/js/main.49c70e31.js"
   ]
 }
